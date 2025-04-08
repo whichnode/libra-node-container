@@ -1,0 +1,4 @@
+container:
+  name: whichnode/libra-node-container
+  ref: github.com/whichnode/libra-node-container
+  build: ./build.sh
